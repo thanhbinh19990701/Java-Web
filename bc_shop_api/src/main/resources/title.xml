@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tiles-definitions>
+	<definition name="login" extends="base-definition">
+		<put-attribute name="body" value="/WEB-INF/views/user/login.jsp"/>
+	</definition>
+	
+</tiles-definitions>

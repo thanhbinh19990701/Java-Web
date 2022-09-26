@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/web/config/MyAppWebConfig.java=UTF-8
+encoding//src/main/java/com/web/controllers/AdminController.java=UTF-8
+encoding//src/main/java/com/web/controllers/ProductController.java=UTF-8
+encoding//src/main/java/com/web/controllers/ShoppingCartController.java=UTF-8
+encoding//src/main/java/com/web/controllers/UserController.java=UTF-8
+encoding//src/main/java/com/web/services/imp/AuthServiceImp.java=UTF-8
+encoding//src/main/java/com/web/services/imp/CallApiServerImp.java=UTF-8
+encoding//src/main/java/com/web/services/imp/CommonService.java=UTF-8
+encoding//src/main/java/com/web/services/imp/CustomerService.java=UTF-8
+encoding//src/main/java/com/web/services/imp/OderService.java=UTF-8
+encoding//src/main/java/com/web/services/imp/OrderdetailService.java=UTF-8
+encoding//src/main/java/com/web/services/imp/ProductService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web-client/product-detail.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web-client/view-product-moal.jsp=UTF-8

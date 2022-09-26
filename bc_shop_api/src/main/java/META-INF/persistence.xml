@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.2" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+	<persistence-unit name="bc_shop_api">
+		<class>com.web.entities.Category</class>
+		<class>com.web.entities.Comment</class>
+		<class>com.web.entities.Order</class>
+		<class>com.web.entities.Orderdetail</class>
+		<class>com.web.entities.Product</class>
+		<class>com.web.entities.Slider</class>
+		<class>com.web.entities.User</class>
+		<class>com.web.entities.UserPK</class>
+	</persistence-unit>
+</persistence>
